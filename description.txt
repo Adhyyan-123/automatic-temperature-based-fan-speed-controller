@@ -1,0 +1,18 @@
+brief description
+
+1) dht11 sensor;
+    this sensor has 3 pins. signal(data) pin,vcc and ground pin
+    at the deep level the sensor is concept of MEMS(micro electro mechanical sensors)
+    which are sensitive to surrounding pressure, humidity,temperature parameters.
+    it is the air molecules between the physical and sensors which act as a bridge
+    these molecules carry the surrounding parameters to the sensors.
+2) lcd ;
+    it is an 16x2 display(16 columns and 2 rows)
+    the sensors values are fed to the arduino 
+    and the arduino determines the constraints and displays
+    the temperature and fan speed.
+3)  arduino;
+    it is mini computer of atmega 386 ic
+    it has memory and ports where we burn the code written in c language.
+
+    
